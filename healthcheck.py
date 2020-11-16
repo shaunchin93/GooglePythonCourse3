@@ -12,4 +12,4 @@ if not check_disk_usage("/"):
 elif not check_cpu_usage():
     print("Error in CPU!")
 else:
-    print("Everything OK!")
+    print("Everything is a OK!")
